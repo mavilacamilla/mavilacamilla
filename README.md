@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mavilacamilla
 - 👀 I’m interested in ecology and evolution 
-- 🌱 I’m currently learning R and python 
+- 🌱 I’m currently learning R and Python 
 - 📫 How to reach me: email me by camillamavila@discente.ufg.br
 
 <!---
