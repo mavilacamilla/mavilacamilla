@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mavilacamilla
-- 👀 I’m interested in ecology,evolution and computational biology
+- 🎓 Biologist by training 
+- 👀 I’m interested in employing a quantitative approach to comprehend biology-related topics 
 - 🌱 I’m currently learning R and Python 
-- 📫 How to reach me: email me by camillamavila@discente.ufg.br
+- 📫 How to reach me: email me by camilladeavila@gmail.com
 
 <!---
 mavilacamilla/mavilacamilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
